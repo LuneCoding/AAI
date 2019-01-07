@@ -1,0 +1,12 @@
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\obj\Debug\DragonVilleGameAI.csprojResolveAssemblyReference.cache
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\obj\Debug\DragonVilleGameAI.Properties.Resources.resources
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\obj\Debug\DragonVilleGameAI.csproj.GenerateResource.Cache
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\obj\Debug\DragonVilleGameAI.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\obj\Debug\DragonVilleGameAI.Form1.resources
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\bin\Debug\DragonVilleGameAI.exe.config
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\bin\Debug\DragonVilleGameAI.exe
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\bin\Debug\DragonVilleGameAI.pdb
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\obj\Debug\DragonVilleGameAI.exe
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\obj\Debug\DragonVilleGameAI.pdb
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\bin\Debug\MathNet.Numerics.dll
+C:\Users\Erik\source\repos\DragonVilleGameAI\DragonVilleGameAI\bin\Debug\MathNet.Numerics.xml

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonVilleGameAI", "DragonVilleGameAI\DragonVilleGameAI.csproj", "{5DEB82FB-D449-4C67-B88C-2742C0F7A24D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DEB82FB-D449-4C67-B88C-2742C0F7A24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEB82FB-D449-4C67-B88C-2742C0F7A24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEB82FB-D449-4C67-B88C-2742C0F7A24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEB82FB-D449-4C67-B88C-2742C0F7A24D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CB0C1DC-DD2D-4352-B11F-D97EB56A4B47}
+	EndGlobalSection
+EndGlobal
